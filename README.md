@@ -1,3 +1,3 @@
 # Tensorflow lecture note
 
-tensorflw lecture from freecodecamp.org
+tensorflow lecture from freecodecamp.org
